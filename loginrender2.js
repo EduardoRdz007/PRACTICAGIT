@@ -34,7 +34,7 @@ var user_name = $("#user_name").val(),
       
       }
     }else{
-      alert('Cambiando Contenido');
+      alert('Cambiando Contenido, mas cambios');
     }
   
 })
