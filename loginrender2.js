@@ -34,7 +34,7 @@ var user_name = $("#user_name").val(),
       
       }
     }else{
-      alert('Captcha No Seleccionado ');
+      alert('Cambiando Contenido');
     }
   
 })
